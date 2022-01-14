@@ -2,6 +2,9 @@ package com.debug.lib;
 
 import android.app.Application;
 
+import com.facebook.stetho.Stetho;
+import com.facebook.stetho.okhttp3.StethoInterceptor;
+
 public class StethoUtil {
 
 
